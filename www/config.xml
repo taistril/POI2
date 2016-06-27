@@ -2,7 +2,7 @@
 <widget xmlns = "http://www.w3.org/ns/widgets"
     xmlns:gap = "http://phonegap.com/ns/1.0"
     id        = "com.phonegap.POI2"
-    versionCode = "80"    
+    versionCode = "81"    
     version   = "2.0.0">
 
 <name>POI2</name>
